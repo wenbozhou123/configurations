@@ -1,0 +1,8 @@
+{
+    "proxy" : "http://web-proxy.sg.softwaregrp.net:8080",
+    "https_proxy": "http://web-proxy.sg.softwaregrp.net:8080",
+    "http_proxy":"http://web-proxy.sg.softwaregrp.net:8080",
+    "registry": "https://propelrepo.com:443/artifactory/api/bower/jumpstart-bower-virt",
+    "strict-ssl": false,
+    "timeout":300000
+}

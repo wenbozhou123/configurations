@@ -1,0 +1,7 @@
+strict-ssl=false
+@propel:registry=https://propelrepo.com:443/artifactory/api/npm/jumpstart
+proxy=http://web-proxy.sg.softwaregrp.net:8080/
+https-proxy=http://web-proxy.sg.softwaregrp.net:8080
+no-proxy-hosts=http://web-proxy.sg.softwaregrp.net:8088
+noproxy=http://web-proxy.sg.softwaregrp.net:8088
+registry=https://registry.npmjs.org/
